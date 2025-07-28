@@ -1,0 +1,295 @@
+{
+  "title": "Name : Atharva Narkhede",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Roll no : IIT2023153",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Company : Salesforce",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Salesforce Internship Interview Experience (SDE Role)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Hey everyone! I'm Atharva Narkhede, currently pursuing my B.Tech",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "in Information Technology at IIIT Allahabad. Here's a detailed",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "write-up of my off-campus interview experience for the Software",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Developer Summer Internship at Salesforce.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The OA consisted of 3 coding questions and questions on core CS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "fundamentals like DSA, OOPS, OS, and DBMS. The coding questions",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "were: - Prefix Sum (Medium) - Trees (Hard) - Graph (Hard) It was a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "solid test of problem-solving under pressure and theoretical clarity.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "I received the interview call after clearing the OA. The technical",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "round was intense and broken into three parts: 1. DSA Round: - BST",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "(medium) and Linked List (medium) problems were asked. - I",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "explained my approach clearly and discussed edge cases, time/",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "space complexities.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The code was to be made run on hackerank interface , with the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "expectations that all the test cases should pass. 2. OOPS Round: - I",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "was asked to explain abstraction, followed by a comparison",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "between abstract classes and interfaces. - I also implemented a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "scenario using both to demonstrate understanding.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "oriented. Questions like: - \"Which data structure would you use to",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "revisit website pages and jump to forward ones?\" → I answered",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "using Stack + LinkedList. - \"What data structure would you use for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "a stream of data like bits on physical media?\" - I was struggling",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "with different approaches here, but stayed calm and walked",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "through my thoughts. The interviewer gave a hint, and I finally",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "landed on the correct structure: a Map. This was a moment of relief",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and confidence boost.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "##Tip: Even if you're unsure, communicate your thinking. The",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "interviewer values structured thought more than immediate",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "accuracy.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "This was a blend of technical questions on projects and HR-based",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "questions",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The interviewer reviewed my resume for over 10 mins and started",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "with the projects section : 1. Projects: - I explained my RAG-based",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "legal chatbot project. - I was asked: \"Why RAG and not model fine-",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "tuning?\" and had to justify the tech choices and trade-offs.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The interviewer asked what made u bulid this project? The answer",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "was straightforward as I had to solve a real world social problem",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and bridge a gap between technical aspect and solving social cause.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "skills I’m improving. - One tough moment: I was asked, \"What’s",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "your biggest weakness?\" - I answered using the STAR method",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "(Situation, Task, Action, Result), but the interviewer seemed a bit",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "skeptical. - She even counter-questioned it, and for a moment I",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "thought I blew my chances. - But surprisingly, she appreciated the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "STAR structure and my composed handling of the situation.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Final Tips",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "- Start with Striver’s DSA Sheet for structured prep. - Practice 1200–",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "extremely comfortable with your projects and tech stack. - Maintain",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "clarity and confidence in your answers. - Don’t pretend to know",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "everything—stay humble and receptive.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "I’m thrilled to share that I made it to the Salesforce Summer",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Internship! The journey taught me not just technical prep, but the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "importance of communication, resilience, and staying true to the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "process. If you're prepping for such roles — stay consistent,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "communicate well, and trust your journey!",
+      "page": 3
+    }
+  ]
+}
